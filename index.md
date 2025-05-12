@@ -5,13 +5,13 @@ title: Final Chronicle
 
 ## About Me
 
-Hi, I'm [Your First Name], a student interested in [short blurb—e.g., game design, storytelling, building things, etc.].  
-This project was part of my final quest in [course name], and it reflects what I’ve learned about [theme—e.g., creativity, code, perseverance].
+Hi, I'm Sarah, a student interested in cats and genetics.  
+This project was part of my final quest in Computer Programming Spring 2025, and it reflects what I’ve learned about dictionaries and pygame.
 
 ## About My Project
 
-**Project Title:** *[Name it!]*   
-**One-line pitch:** [“A game where you…” or “A project that lets you…”]
+**Project Title:** *Wastegen*   
+**One-line pitch:** A clangen mod with mutations (such as extra tails, wings, etc.), based off of Wasteclan on TikTok
 
 > Curious about what I’d do differently or recommend to others? Read my final thoughts here: [Final Tip & Takeaways](_posts/2025-05-23-tip.md)
 
