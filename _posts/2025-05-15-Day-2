@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Day 2 - Progress"
+---
+
+### What I Set Out to Do
+I am going to debug and get the interpret_phenotype() function working, and then work on implementing the genes into the cat's data
+
+---
+
+### What I Actually Did
+
+I debugged interpret_phenotpe() (I needed a [0]). I also changed the mutations file into a mutations class, to make it easier to access (and because
+most other things in the game code are classes)
+
+---
+
+### What I Learned or Noticed
+
+I learned that self in OOPs are very finnicky, and only work if you set the class as a variable (for some reason)
+
+---
+
+### What's Next
+
+next I'm gonna try to find where the cats data is created, and implement the mutation code
