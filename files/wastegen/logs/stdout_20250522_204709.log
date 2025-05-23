@@ -1,0 +1,63 @@
+Running on source code
+Failed to get git commit hash, using hardcoded version number instead.
+Hey testers! We recommend you use git to clone the repository, as it makes things easier for everyone.
+There are instructions at https://discord.com/channels/1003759225522110524/1054942461178421289/1078170877117616169
+Version Name:  0.9.0
+Running on commit 0.9.0
+pygame-ce 2.5.0 (SDL 2.30.3, Python 3.12.2)
+(['normal', ['normal', 'normal']], ['cat', ['extra tuft', 'cat']], ['cat', ['goat', 'cat']], [2, [2, 2]], ['cat', ['squirrel', 'cat']], [1, [1, 1]], ['cat', ['fangs', 'cat']], [False, [False, True]], [None, ['deer', 'deer']], [False, [True, False]], [None, ['wyvern', 'dragon']], [None, ['bat', 'bird']], ['two present', [True, True]], [['spines', 'frills'], ['spines', 'frills']])
+False
+False
+False
+True
+False
+False
+False
+False
+queueing music: current track is None, new track is resources/audio/music/Menu_Ambiance.mp3
+queueing music: current track is resources/audio/music/Menu_Ambiance.mp3, new track is resources/audio/music/Menu_Ambiance.mp3
+No clan.json/txt???? Clan prolly wasnt initalized kekw
+queueing music: current track is resources/audio/music/Menu_Ambiance.mp3, new track is resources/audio/music/Clangen_Generations_441khz.mp3
+(['normal', ['large', 'normal']], ['cat', ['cat', 'rabbit']], ['cat', ['cat', 'reptile']], [2, [2, 2]], ['cat', ['cat', 'devil']], [1, [1, 2]], ['cat', ['cat', 'cat']], [False, [False, False]], [None, ['deer', 'goat']], [False, [False, False]], [None, ['dragon', 'wyvern']], [None, ['bird', 'bat']], ['one present', [True, False]], ['lure', ['lure', 'lure']])
+(['normal', ['large', 'normal']], ['extra tuft', ['dog', 'extra tuft']], ['extra tuft', ['cat', 'cat']], [2, [2, 2]], ['cat', ['rat', 'cat']], [1, [2, 1]], ['cat', ['cat', 'fangs']], [True, [True, True]], ['goat', ['goat', 'ram']], [False, [False, False]], [None, ['wyvern', 'wyvern']], [None, ['pterosaur', 'insect']], ['none present', [False, False]], [None, ['fins', 'lure']])
+(['large', ['small', 'large']], ['cat', ['cat', 'dog']], ['cat', ['cat', 'goat']], [2, [2, 3]], ['rat', ['rat', 'rat']], [1, [1, 1]], ['cat', ['cat', 'mandibles']], [False, [False, False]], [None, ['goat', 'goat']], [False, [False, False]], [None, ['dragon', 'wyvern']], [None, ['insect', 'bat']], ['none present', [False, False]], [None, ['lure', 'spines']])
+(['normal', ['large', 'normal']], ['cat', ['dog', 'cat']], ['cat', ['cat', 'reptile']], [2, [2, 2]], ['cat', ['cat', 'cat']], [1, [1, 1]], ['fangs', ['mandibles', 'fangs']], [False, [True, False]], [None, ['goat', 'deer']], [False, [False, False]], [None, ['dragon', 'wyvern']], [None, ['bat', 'bat']], ['two present', [True, True]], [['lure', 'spines'], ['lure', 'spines']])
+(['large', ['large', 'small']], ['cat', ['rabbit', 'cat']], ['cat', ['cat', 'goat']], [2, [2, 2]], ['squirrel', ['squirrel', 'devil']], [1, [1, 1]], ['cat', ['cat', 'cat']], [False, [False, True]], [None, ['goat', 'goat']], [False, [False, False]], [None, ['dragon', 'dragon']], [None, ['insect', 'bat']], ['none present', [False, False]], [None, ['spines', 'lure']])
+(['normal', ['normal', 'normal']], ['cat', ['dog', 'cat']], ['cat', ['cat', 'cat']], [2, [2, 2]], ['cat', ['cat', 'cat']], [1, [1, 1]], ['cat', ['cat', 'cat']], [False, [False, False]], [None, ['ram', 'goat']], [False, [True, False]], [None, ['wyvern', 'wyvern']], [None, ['bat', 'bird']], ['none present', [False, False]], [None, ['gills', 'lure']])
+(['normal', ['large', 'normal']], ['cat', ['extra tuft', 'cat']], ['cat', ['cat', 'cat']], [2, [2, 2]], ['squirrel', ['squirrel', 'rat']], [1, [1, 1]], ['fangs', ['fangs', 'pedipalps']], [False, [False, False]], [None, ['goat', 'deer']], [False, [False, False]], [None, ['wyvern', 'dragon']], [None, ['bat', 'bird']], ['one present', [True, False]], ['scales', ['lure', 'scales']])
+(['normal', ['normal', 'normal']], ['cat', ['cat', 'cat']], ['cat', ['cat', 'cat']], [2, [2, 2]], ['squirrel', ['dolphin', 'squirrel']], [1, [1, 1]], ['cat', ['cat', 'fangs']], [False, [False, False]], [None, ['deer', 'ram']], [False, [False, True]], [None, ['dragon', 'dragon']], [None, ['bat', 'bird']], ['none present', [False, False]], [None, ['scales', 'gills']])
+(['normal', ['normal', 'normal']], ['cat', ['cat', 'cat']], ['cat', ['cat', 'cat']], [2, [2, 2]], ['cat', ['squirrel', 'cat']], [1, [1, 3]], ['cat', ['cat', 'fangs']], [True, [True, True]], ['deer', ['antennae', 'deer']], [False, [False, False]], [None, ['wyvern', 'wyvern']], [None, ['bird', 'insect']], ['one present', [True, False]], ['frills', ['scales', 'frills']])
+(['normal', ['large', 'normal']], ['cat', ['extra tuft', 'cat']], ['cat', ['cat', 'frog']], [2, [2, 2]], ['squirrel', ['squirrel', 'squirrel']], [1, [1, 3]], ['cat', ['cat', 'mandibles']], [False, [False, False]], [None, ['ram', 'goat']], [False, [True, False]], [None, ['wyvern', 'wyvern']], [None, ['bat', 'insect']], ['two present', [True, True]], [['lure', 'fins'], ['lure', 'fins']])
+(['normal', ['large', 'normal']], ['cat', ['cat', 'cat']], ['cat', ['abyss', 'abyss']], [2, [2, 3]], ['cat', ['rat', 'cat']], [1, [1, 2]], ['cat', ['fangs', 'cat']], [False, [False, False]], [None, ['ram', 'deer']], [False, [False, False]], [None, ['wyvern', 'wyvern']], [None, ['insect', 'bird']], ['none present', [False, False]], [None, ['fins', 'spines']])
+(['normal', ['normal', 'small']], ['cat', ['extra tuft', 'cat']], ['cat', ['reptile', 'cat']], [2, [2, 2]], ['cat', ['cat', 'cat']], [1, [1, 1]], ['cat', ['cat', 'mandibles']], [False, [False, True]], [None, ['goat', 'ram']], [False, [False, False]], [None, ['dragon', 'dragon']], [None, ['bird', 'bird']], ['one present', [True, False]], ['frills', ['frills', 'scales']])
+(['large', ['small', 'large']], ['cat', ['cat', 'cat']], ['cat', ['cat', 'cat']], [2, [2, 2]], ['cat', ['cat', 'cat']], [1, [1, 1]], ['mandibles', ['mandibles', 'mandibles']], [False, [False, False]], [None, ['goat', 'ram']], [False, [False, False]], [None, ['wyvern', 'wyvern']], [None, ['bird', 'bat']], ['none present', [False, False]], [None, ['spines', 'fins']])
+(['normal', ['large', 'normal']], ['extra tuft', ['rabbit', 'extra tuft']], ['extra tuft', ['cat', 'abyss']], [2, [2, 2]], ['squirrel', ['dolphin', 'squirrel']], [1, [1, 1]], ['cat', ['cat', 'fangs']], [False, [False, False]], [None, ['ram', 'goat']], [False, [False, False]], [None, ['dragon', 'wyvern']], [None, ['insect', 'insect']], ['one present', [True, False]], ['spines', ['lure', 'spines']])
+(['normal', ['normal', 'normal']], ['extra tuft', ['dog', 'extra tuft']], ['extra tuft', ['goat', 'reptile']], [2, [2, 2]], ['rat', ['rat', 'rat']], [1, [1, 1]], ['cat', ['fangs', 'cat']], [False, [False, False]], [None, ['deer', 'deer']], [False, [False, False]], [None, ['wyvern', 'dragon']], [None, ['bat', 'pterosaur']], ['two present', [True, True]], [['lure', 'scales'], ['lure', 'scales']])
+(['normal', ['large', 'normal']], ['cat', ['no ears', 'cat']], ['cat', ['abyss', 'cat']], [2, [2, 2]], ['squirrel', ['squirrel', 'devil']], [1, [1, 1]], ['cat', ['pedipalps', 'cat']], [False, [False, False]], [None, ['deer', 'deer']], [False, [False, False]], [None, ['dragon', 'wyvern']], [None, ['bat', 'bat']], ['one present', [False, True]], ['gills', ['spines', 'gills']])
+(['small', ['small', 'small']], ['cat', ['rabbit', 'cat']], ['cat', ['cat', 'cat']], [2, [2, 2]], ['cat', ['cat', 'cat']], [1, [1, 1]], ['cat', ['cat', 'cat']], [False, [True, False]], [None, ['ram', 'goat']], [False, [False, False]], [None, ['wyvern', 'wyvern']], [None, ['bat', 'bird']], ['two present', [True, True]], [['spines', 'scales'], ['spines', 'scales']])
+(['normal', ['normal', 'large']], ['extra tuft', ['dog', 'extra tuft']], ['extra tuft', ['reptile', 'cat']], [2, [3, 2]], ['cat', ['rat', 'cat']], [1, [1, 1]], ['cat', ['cat', 'pedipalps']], [False, [False, False]], [None, ['antennae', 'deer']], [True, [True, True]], ['wyvern', ['wyvern', 'wyvern']], ['bat', ['bat', 'bat']], ['one present', [True, False]], ['spines', ['spines', 'fins']])
+(['normal', ['normal', 'normal']], ['extra tuft', ['extra tuft', 'extra tuft']], ['extra tuft', ['abyss', 'abyss']], [2, [2, 2]], ['squirrel', ['squirrel', 'devil']], [1, [1, 1]], ['cat', ['cat', 'fangs']], [False, [False, False]], [None, ['goat', 'goat']], [False, [True, False]], [None, ['wyvern', 'wyvern']], [None, ['pterosaur', 'bird']], ['two present', [True, True]], [['fins', 'fins'], ['fins', 'fins']])
+(['normal', ['normal', 'small']], ['cat', ['cat', 'rabbit']], ['cat', ['abyss', 'goat']], [2, [2, 2]], ['squirrel', ['squirrel', 'dolphin']], [1, [1, 2]], ['cat', ['cat', 'mandibles']], [False, [False, False]], [None, ['ram', 'deer']], [False, [False, False]], [None, ['wyvern', 'dragon']], [None, ['bat', 'bird']], ['none present', [False, False]], [None, ['lure', 'lure']])
+(['normal', ['normal', 'normal']], ['rabbit', ['rabbit', 'no ears']], ['rabbit', ['cat', 'cat']], [2, [2, 2]], ['cat', ['cat', 'rat']], [1, [1, 1]], ['cat', ['cat', 'cat']], [False, [False, True]], [None, ['antennae', 'deer']], [False, [False, True]], [None, ['wyvern', 'dragon']], [None, ['bird', 'insect']], ['none present', [False, False]], [None, ['fins', 'lure']])
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[True, [True, True]]
+[False, [True, False]]
+[False, [False, False]]
+[False, [False, True]]
+WARNING: attempted to return symbol string, but there's no clan symbol for SPECKLE.  Random symbol string returned.
+queueing music: current track is resources/audio/music/Clangen_Generations_441khz.mp3, new track is resources/audio/music/Clangen_Generations_441khz.mp3
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[True, [True, True]]
+[False, [True, False]]
+[False, [False, False]]
+[False, [False, True]]
+queueing music: current track is resources/audio/music/Clangen_Generations_441khz.mp3, new track is resources/audio/music/Menu_Ambiance.mp3
+queueing music: current track is resources/audio/music/Menu_Ambiance.mp3, new track is resources/audio/music/Menu_Ambiance.mp3

@@ -1,0 +1,39 @@
+Running on source code
+Failed to get git commit hash, using hardcoded version number instead.
+Hey testers! We recommend you use git to clone the repository, as it makes things easier for everyone.
+There are instructions at https://discord.com/channels/1003759225522110524/1054942461178421289/1078170877117616169
+Version Name:  0.9.0
+Running on commit 0.9.0
+pygame-ce 2.5.0 (SDL 2.30.3, Python 3.12.2)
+(['normal', ['normal', 'normal']], ['cat', ['cat', 'cat']], ['cat', ['cat', 'goat']], [2, [2, 2]], ['squirrel', ['dolphin', 'squirrel']], [1, [1, 1]], ['fangs', ['fangs', 'fangs']], [False, [False, False]], [None, ['goat', 'goat']], [False, [False, False]], [None, ['dragon', 'dragon']], [None, ['insect', 'bird']], ['two present', [True, True]], [['scales', 'lure'], ['scales', 'lure']])
+False
+False
+False
+False
+False
+True
+False
+False
+False
+queueing music: current track is None, new track is resources/audio/music/Menu_Ambiance.mp3
+queueing music: current track is resources/audio/music/Menu_Ambiance.mp3, new track is resources/audio/music/Menu_Ambiance.mp3
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[True, [True, True]]
+[False, [True, False]]
+[False, [False, False]]
+[False, [False, True]]
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[False, [False, False]]
+[True, [True, True]]
+[False, [True, False]]
+[False, [False, False]]
+[False, [False, True]]
+queueing music: current track is resources/audio/music/Menu_Ambiance.mp3, new track is resources/audio/music/Menu_Ambiance.mp3
+queueing music: current track is resources/audio/music/Menu_Ambiance.mp3, new track is resources/audio/music/Menu_Ambiance.mp3

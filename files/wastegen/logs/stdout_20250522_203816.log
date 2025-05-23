@@ -1,0 +1,34 @@
+Running on source code
+Failed to get git commit hash, using hardcoded version number instead.
+Hey testers! We recommend you use git to clone the repository, as it makes things easier for everyone.
+There are instructions at https://discord.com/channels/1003759225522110524/1054942461178421289/1078170877117616169
+Version Name:  0.9.0
+Running on commit 0.9.0
+pygame-ce 2.5.0 (SDL 2.30.3, Python 3.12.2)
+(['normal', ['large', 'normal']], ['dog', ['dog', 'no ears']], ['dog', ['goat', 'reptile']], [2, [2, 2]], ['cat', ['cat', 'cat']], [1, [1, 1]], ['cat', ['fangs', 'cat']], [False, [False, False]], [None, ['antennae', 'antennae']], [False, [False, False]], [None, ['wyvern', 'dragon']], [None, ['pterosaur', 'bird']], ['one present', [False, True]], ['spines', ['fins', 'spines']])
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+None
+queueing music: current track is None, new track is resources/audio/music/Menu_Ambiance.mp3
+queueing music: current track is resources/audio/music/Menu_Ambiance.mp3, new track is resources/audio/music/Menu_Ambiance.mp3
+[None, ['goat', 'deer']]
+[None, ['goat', 'goat']]
+[None, ['deer', 'deer']]
+[None, ['antennae', 'goat']]
+[None, ['ram', 'deer']]
+[None, ['antennae', 'ram']]
+[None, ['deer', 'ram']]
+[None, ['goat', 'goat']]
+[None, ['ram', 'goat']]
+[None, ['ram', 'ram']]
+[None, ['ram', 'ram']]
+queueing music: current track is resources/audio/music/Menu_Ambiance.mp3, new track is resources/audio/music/Menu_Ambiance.mp3
+queueing music: current track is resources/audio/music/Menu_Ambiance.mp3, new track is resources/audio/music/Menu_Ambiance.mp3

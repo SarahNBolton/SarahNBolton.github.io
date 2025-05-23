@@ -1,0 +1,2 @@
+/Users/sarahbolton/Downloads/clangen-0.12.2/.venv/lib/python3.12/site-packages/pygame_gui/core/ui_element.py:236: UserWarning: Supplied horizontal anchors are invalid, defaulting to left
+  warnings.warn("Supplied horizontal anchors are invalid, defaulting to left", category=UserWarning)

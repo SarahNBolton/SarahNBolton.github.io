@@ -1,0 +1,10 @@
+root - ERROR - main.py / load_data / 206 - File failed to load
+Traceback (most recent call last):
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/main.py", line 200, in load_data
+    load_cats()
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/load_cat.py", line 25, in load_cats
+    json_load()
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/load_cat.py", line 114, in json_load
+    print(Mutations.wings_presence_genes[0])
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'Mutations' has no attribute 'wings_presence_genes'

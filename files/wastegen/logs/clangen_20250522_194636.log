@@ -1,0 +1,19 @@
+root - CRITICAL - main.py / log_crash / 119 - Uncaught exception
+Traceback (most recent call last):
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/main.py", line 303, in <module>
+    game.all_screens[game.current_screen].handle_event(event)
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/screens/MakeClanScreen.py", line 190, in handle_event
+    self.handle_game_mode_event(event)
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/screens/MakeClanScreen.py", line 238, in handle_game_mode_event
+    self.save_clan()
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/screens/MakeClanScreen.py", line 2115, in save_clan
+    game.clan.create_clan()
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/clan.py", line 252, in create_clan
+    game.save_cats()
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/game_essentials.py", line 429, in save_cats
+    cat_data = inter_cat.get_save_dict()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py", line 3524, in get_save_dict
+    "extras": self.extras_genes,
+              ^^^^^^^^^^^^^^^^^
+AttributeError: 'Cat' object has no attribute 'extras_genes'. Did you mean: 'horns_genes'?

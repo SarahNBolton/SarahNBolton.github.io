@@ -1,0 +1,6 @@
+root - CRITICAL - main.py / log_crash / 119 - Uncaught exception
+Traceback (most recent call last):
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/main.py", line 291, in <module>
+    time_delta = clock.tick(game.switches["fps"]) / 1000.0
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt

@@ -1,0 +1,15 @@
+root - CRITICAL - main.py / log_crash / 119 - Uncaught exception
+Traceback (most recent call last):
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/main.py", line 160, in <module>
+    from scripts.game_structure.load_cat import load_cats, version_convert
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/load_cat.py", line 8, in <module>
+    from scripts.cat.cats import Cat, BACKSTORIES
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py", line 3605, in <module>
+    cat_class = Cat(example=True)
+                ^^^^^^^^^^^^^^^^^
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py", line 324, in __init__
+    self.init_generate_cat(skill_dict)
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py", line 497, in init_generate_cat
+    self.mutations = self.mutate.get_mutation_dict(self.mutate.generate_genotype(), self)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: Mutations.get_mutation_dict() takes 2 positional arguments but 3 were given

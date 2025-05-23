@@ -1,0 +1,27 @@
+root - CRITICAL - main.py / log_crash / 119 - Uncaught exception
+Traceback (most recent call last):
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/main.py", line 357, in <module>
+    game.all_screens[game.current_screen].screen_switches()
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/screens/ListScreen.py", line 574, in screen_switches
+    self.update_cat_list()
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/screens/ListScreen.py", line 659, in update_cat_list
+    self._update_cat_display()
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/screens/ListScreen.py", line 679, in _update_cat_display
+    self.cat_display = UICatListDisplay(
+                       ^^^^^^^^^^^^^^^^^
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/ui_elements.py", line 1176, in __init__
+    self._display_cats()
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/ui_elements.py", line 1285, in _display_cats
+    self.create_cat_button(i, kitty, self.boxes[i])
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/ui_elements.py", line 1299, in create_cat_button
+    kitty.sprite,
+    ^^^^^^^^^^^^
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py", line 3400, in sprite
+    update_sprite(self)
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/utility.py", line 2525, in update_sprite
+    cat.sprite = generate_sprite(cat)
+                 ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/utility.py", line 2771, in generate_sprite
+    if Mutations.wings_presence_genes[0] == True:
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: type object 'Mutations' has no attribute 'wings_presence_genes'

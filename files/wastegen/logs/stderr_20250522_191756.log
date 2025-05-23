@@ -1,0 +1,21 @@
+root - CRITICAL - main.py / log_crash / 119 - Uncaught exception
+Traceback (most recent call last):
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/main.py", line 160, in <module>
+    from scripts.game_structure.load_cat import load_cats, version_convert
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/load_cat.py", line 8, in <module>
+    from scripts.cat.cats import Cat, BACKSTORIES
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py", line 44, in <module>
+    from scripts.cat.mutations import Mutations
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/mutations.py", line 5, in <module>
+    from scripts.cat.cats import Cat
+ImportError: cannot import name 'Cat' from partially initialized module 'scripts.cat.cats' (most likely due to a circular import) (/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py)
+Traceback (most recent call last):
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/main.py", line 160, in <module>
+    from scripts.game_structure.load_cat import load_cats, version_convert
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/load_cat.py", line 8, in <module>
+    from scripts.cat.cats import Cat, BACKSTORIES
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py", line 44, in <module>
+    from scripts.cat.mutations import Mutations
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/mutations.py", line 5, in <module>
+    from scripts.cat.cats import Cat
+ImportError: cannot import name 'Cat' from partially initialized module 'scripts.cat.cats' (most likely due to a circular import) (/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py)

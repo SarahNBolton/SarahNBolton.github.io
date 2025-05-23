@@ -1,0 +1,16 @@
+root - CRITICAL - main.py / log_crash / 119 - Uncaught exception
+Traceback (most recent call last):
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/main.py", line 349, in <module>
+    MANAGER.process_events(event)
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/.venv/lib/python3.12/site-packages/pygame_gui/ui_manager.py", line 240, in process_events
+    consumed_event = ui_element.process_event(event)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/windows.py", line 318, in process_event
+    game.save_cats()
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/game_essentials.py", line 429, in save_cats
+    cat_data = inter_cat.get_save_dict()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py", line 3430, in get_save_dict
+    print(self.mutate.wings_presence_genes)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Mutations' object has no attribute 'wings_presence_genes'. Did you mean: 'wings_presence_list'?

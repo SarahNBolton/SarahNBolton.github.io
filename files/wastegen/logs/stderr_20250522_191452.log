@@ -1,0 +1,33 @@
+root - CRITICAL - main.py / log_crash / 119 - Uncaught exception
+Traceback (most recent call last):
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/main.py", line 159, in <module>
+    from scripts.game_structure.audio import sound_manager, music_manager
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/audio.py", line 9, in <module>
+    from scripts.game_structure.ui_elements import CatButton, UISpriteButton
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/ui_elements.py", line 18, in <module>
+    from scripts.utility import (
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/utility.py", line 28, in <module>
+    from scripts.cat.mutations import Mutations
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/mutations.py", line 5, in <module>
+    from scripts.cat.cats import Cat
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py", line 23, in <module>
+    from scripts.cat_relations.relationship import Relationship
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat_relations/relationship.py", line 14, in <module>
+    from scripts.utility import get_personality_compatibility, process_text
+ImportError: cannot import name 'get_personality_compatibility' from partially initialized module 'scripts.utility' (most likely due to a circular import) (/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/utility.py)
+Traceback (most recent call last):
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/main.py", line 159, in <module>
+    from scripts.game_structure.audio import sound_manager, music_manager
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/audio.py", line 9, in <module>
+    from scripts.game_structure.ui_elements import CatButton, UISpriteButton
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/game_structure/ui_elements.py", line 18, in <module>
+    from scripts.utility import (
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/utility.py", line 28, in <module>
+    from scripts.cat.mutations import Mutations
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/mutations.py", line 5, in <module>
+    from scripts.cat.cats import Cat
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat/cats.py", line 23, in <module>
+    from scripts.cat_relations.relationship import Relationship
+  File "/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/cat_relations/relationship.py", line 14, in <module>
+    from scripts.utility import get_personality_compatibility, process_text
+ImportError: cannot import name 'get_personality_compatibility' from partially initialized module 'scripts.utility' (most likely due to a circular import) (/Users/sarahbolton/Downloads/clangen-0.12.2/scripts/utility.py)
