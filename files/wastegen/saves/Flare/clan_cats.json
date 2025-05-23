@@ -1,0 +1,1592 @@
+[
+    {
+        "ID": "21",
+        "name_prefix": "Burnet",
+        "name_suffix": "dance",
+        "specsuffix_hidden": false,
+        "gender": "male",
+        "gender_align": "male",
+        "pronouns": [
+            {
+                "subject": "he",
+                "object": "him",
+                "poss": "his",
+                "inposs": "his",
+                "self": "himself",
+                "conju": 2
+            }
+        ],
+        "birth_cooldown": 0,
+        "status": "leader",
+        "backstory": "clan_founder",
+        "moons": 73,
+        "trait": "responsible",
+        "facets": "9,5,0,10",
+        "parent1": null,
+        "parent2": null,
+        "adoptive_parents": [],
+        "mentor": null,
+        "former_mentor": [],
+        "patrol_with_mentor": 0,
+        "mate": [],
+        "previous_mates": [],
+        "dead": false,
+        "paralyzed": false,
+        "no_kits": false,
+        "no_retire": false,
+        "no_mates": false,
+        "exiled": false,
+        "driven_out": false,
+        "pelt_name": "Classic",
+        "pelt_color": "SIENNA",
+        "pelt_length": "medium",
+        "sprite_kitten": 1,
+        "sprite_adolescent": 5,
+        "sprite_adult": 8,
+        "sprite_senior": 14,
+        "sprite_para_adult": 15,
+        "eye_colour": "SAGE",
+        "eye_colour2": null,
+        "reverse": true,
+        "white_patches": null,
+        "vitiligo": null,
+        "points": null,
+        "white_patches_tint": "none",
+        "pattern": null,
+        "tortie_base": null,
+        "tortie_color": null,
+        "tortie_pattern": null,
+        "skin": "DARKBLUE",
+        "tint": "gray",
+        "skill_dict": {
+            "primary": "RUNNER,3,False",
+            "secondary": "STORY,13,False",
+            "hidden": null
+        },
+        "scars": [],
+        "accessory": null,
+        "experience": 71,
+        "dead_moons": 0,
+        "current_apprentice": [],
+        "former_apprentices": [],
+        "df": false,
+        "outside": false,
+        "faded_offspring": [],
+        "opacity": 100,
+        "prevent_fading": false,
+        "favourite": false,
+        "ear_size": [
+            "large",
+            [
+                "small",
+                "large"
+            ]
+        ],
+        "ear_type": [
+            "cat",
+            [
+                "cat",
+                "cat"
+            ]
+        ],
+        "eye_type": [
+            "cat",
+            [
+                "cat",
+                "cat"
+            ]
+        ],
+        "eye_count": [
+            2,
+            [
+                2,
+                2
+            ]
+        ],
+        "tail_type": [
+            "cat",
+            [
+                "cat",
+                "cat"
+            ]
+        ],
+        "tail_count": [
+            1,
+            [
+                1,
+                1
+            ]
+        ],
+        "teeth": [
+            "mandibles",
+            [
+                "mandibles",
+                "mandibles"
+            ]
+        ],
+        "horns_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "horns": [
+            null,
+            [
+                "goat",
+                "ram"
+            ]
+        ],
+        "wings_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "wings_type": [
+            null,
+            [
+                "wyvern",
+                "wyvern"
+            ]
+        ],
+        "wings": [
+            null,
+            [
+                "bird",
+                "bat"
+            ]
+        ],
+        "extras_presence": [
+            "none present",
+            [
+                false,
+                false
+            ]
+        ],
+        "extras": [
+            null,
+            [
+                "spines",
+                "fins"
+            ]
+        ]
+    },
+    {
+        "ID": "22",
+        "name_prefix": "Phlox",
+        "name_suffix": "leaf",
+        "specsuffix_hidden": false,
+        "gender": "female",
+        "gender_align": "female",
+        "pronouns": [
+            {
+                "subject": "she",
+                "object": "her",
+                "poss": "her",
+                "inposs": "hers",
+                "self": "herself",
+                "conju": 2
+            }
+        ],
+        "birth_cooldown": 0,
+        "status": "deputy",
+        "backstory": "clan_founder",
+        "moons": 53,
+        "trait": "troublesome",
+        "facets": "1,0,8,3",
+        "parent1": null,
+        "parent2": null,
+        "adoptive_parents": [],
+        "mentor": null,
+        "former_mentor": [],
+        "patrol_with_mentor": 0,
+        "mate": [],
+        "previous_mates": [],
+        "dead": false,
+        "paralyzed": false,
+        "no_kits": false,
+        "no_retire": false,
+        "no_mates": false,
+        "exiled": false,
+        "driven_out": false,
+        "pelt_name": "Sokoke",
+        "pelt_color": "LIGHTBROWN",
+        "pelt_length": "short",
+        "sprite_kitten": 0,
+        "sprite_adolescent": 3,
+        "sprite_adult": 8,
+        "sprite_senior": 13,
+        "sprite_para_adult": 15,
+        "eye_colour": "COPPER",
+        "eye_colour2": null,
+        "reverse": false,
+        "white_patches": "FADESPOTS",
+        "vitiligo": null,
+        "points": null,
+        "white_patches_tint": "offwhite",
+        "pattern": null,
+        "tortie_base": null,
+        "tortie_color": null,
+        "tortie_pattern": null,
+        "skin": "BROWN",
+        "tint": "yellow",
+        "skill_dict": {
+            "primary": "HUNTER,6,False",
+            "secondary": null,
+            "hidden": null
+        },
+        "scars": [],
+        "accessory": null,
+        "experience": 133,
+        "dead_moons": 0,
+        "current_apprentice": [
+            "28"
+        ],
+        "former_apprentices": [],
+        "df": false,
+        "outside": false,
+        "faded_offspring": [],
+        "opacity": 100,
+        "prevent_fading": false,
+        "favourite": false,
+        "ear_size": [
+            "normal",
+            [
+                "large",
+                "normal"
+            ]
+        ],
+        "ear_type": [
+            "extra tuft",
+            [
+                "rabbit",
+                "extra tuft"
+            ]
+        ],
+        "eye_type": [
+            "extra tuft",
+            [
+                "cat",
+                "abyss"
+            ]
+        ],
+        "eye_count": [
+            2,
+            [
+                2,
+                2
+            ]
+        ],
+        "tail_type": [
+            "squirrel",
+            [
+                "dolphin",
+                "squirrel"
+            ]
+        ],
+        "tail_count": [
+            1,
+            [
+                1,
+                1
+            ]
+        ],
+        "teeth": [
+            "cat",
+            [
+                "cat",
+                "fangs"
+            ]
+        ],
+        "horns_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "horns": [
+            null,
+            [
+                "ram",
+                "goat"
+            ]
+        ],
+        "wings_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "wings_type": [
+            null,
+            [
+                "dragon",
+                "wyvern"
+            ]
+        ],
+        "wings": [
+            null,
+            [
+                "insect",
+                "insect"
+            ]
+        ],
+        "extras_presence": [
+            "one present",
+            [
+                true,
+                false
+            ]
+        ],
+        "extras": [
+            "spines",
+            [
+                "lure",
+                "spines"
+            ]
+        ]
+    },
+    {
+        "ID": "23",
+        "name_prefix": "Pipit",
+        "name_suffix": "patch",
+        "specsuffix_hidden": false,
+        "gender": "male",
+        "gender_align": "male",
+        "pronouns": [
+            {
+                "subject": "he",
+                "object": "him",
+                "poss": "his",
+                "inposs": "his",
+                "self": "himself",
+                "conju": 2
+            }
+        ],
+        "birth_cooldown": 0,
+        "status": "medicine cat",
+        "backstory": "clan_founder",
+        "moons": 93,
+        "trait": "gloomy",
+        "facets": "11,0,4,3",
+        "parent1": null,
+        "parent2": null,
+        "adoptive_parents": [],
+        "mentor": null,
+        "former_mentor": [],
+        "patrol_with_mentor": 0,
+        "mate": [],
+        "previous_mates": [],
+        "dead": false,
+        "paralyzed": false,
+        "no_kits": false,
+        "no_retire": false,
+        "no_mates": false,
+        "exiled": false,
+        "driven_out": false,
+        "pelt_name": "TwoColour",
+        "pelt_color": "CREAM",
+        "pelt_length": "short",
+        "sprite_kitten": 1,
+        "sprite_adolescent": 5,
+        "sprite_adult": 6,
+        "sprite_senior": 14,
+        "sprite_para_adult": 15,
+        "eye_colour": "SILVER",
+        "eye_colour2": null,
+        "reverse": false,
+        "white_patches": "SHOOTINGSTAR",
+        "vitiligo": null,
+        "points": null,
+        "white_patches_tint": "none",
+        "pattern": null,
+        "tortie_base": null,
+        "tortie_color": null,
+        "tortie_pattern": null,
+        "skin": "PINK",
+        "tint": "orange",
+        "skill_dict": {
+            "primary": "CAMP,20,False",
+            "secondary": null,
+            "hidden": null
+        },
+        "scars": [],
+        "accessory": null,
+        "experience": 133,
+        "dead_moons": 0,
+        "current_apprentice": [],
+        "former_apprentices": [],
+        "df": false,
+        "outside": false,
+        "faded_offspring": [],
+        "opacity": 100,
+        "prevent_fading": false,
+        "favourite": false,
+        "ear_size": [
+            "normal",
+            [
+                "normal",
+                "normal"
+            ]
+        ],
+        "ear_type": [
+            "extra tuft",
+            [
+                "dog",
+                "extra tuft"
+            ]
+        ],
+        "eye_type": [
+            "extra tuft",
+            [
+                "goat",
+                "reptile"
+            ]
+        ],
+        "eye_count": [
+            2,
+            [
+                2,
+                2
+            ]
+        ],
+        "tail_type": [
+            "rat",
+            [
+                "rat",
+                "rat"
+            ]
+        ],
+        "tail_count": [
+            1,
+            [
+                1,
+                1
+            ]
+        ],
+        "teeth": [
+            "cat",
+            [
+                "fangs",
+                "cat"
+            ]
+        ],
+        "horns_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "horns": [
+            null,
+            [
+                "deer",
+                "deer"
+            ]
+        ],
+        "wings_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "wings_type": [
+            null,
+            [
+                "wyvern",
+                "dragon"
+            ]
+        ],
+        "wings": [
+            null,
+            [
+                "bat",
+                "pterosaur"
+            ]
+        ],
+        "extras_presence": [
+            "two present",
+            [
+                true,
+                true
+            ]
+        ],
+        "extras": [
+            [
+                "lure",
+                "scales"
+            ],
+            [
+                "lure",
+                "scales"
+            ]
+        ]
+    },
+    {
+        "ID": "24",
+        "name_prefix": "Small",
+        "name_suffix": "bellow",
+        "specsuffix_hidden": false,
+        "gender": "female",
+        "gender_align": "female",
+        "pronouns": [
+            {
+                "subject": "she",
+                "object": "her",
+                "poss": "her",
+                "inposs": "hers",
+                "self": "herself",
+                "conju": 2
+            }
+        ],
+        "birth_cooldown": 0,
+        "status": "warrior",
+        "backstory": "clan_founder",
+        "moons": 85,
+        "trait": "bold",
+        "facets": "6,10,9,10",
+        "parent1": null,
+        "parent2": null,
+        "adoptive_parents": [],
+        "mentor": null,
+        "former_mentor": [],
+        "patrol_with_mentor": 0,
+        "mate": [],
+        "previous_mates": [],
+        "dead": false,
+        "paralyzed": false,
+        "no_kits": false,
+        "no_retire": false,
+        "no_mates": false,
+        "exiled": false,
+        "driven_out": false,
+        "pelt_name": "Masked",
+        "pelt_color": "SILVER",
+        "pelt_length": "short",
+        "sprite_kitten": 2,
+        "sprite_adolescent": 3,
+        "sprite_adult": 6,
+        "sprite_senior": 14,
+        "sprite_para_adult": 15,
+        "eye_colour": "HAZEL",
+        "eye_colour2": null,
+        "reverse": true,
+        "white_patches": null,
+        "vitiligo": null,
+        "points": null,
+        "white_patches_tint": "none",
+        "pattern": null,
+        "tortie_base": null,
+        "tortie_color": null,
+        "tortie_pattern": null,
+        "skin": "DARK",
+        "tint": "orange",
+        "skill_dict": {
+            "primary": "KIT,26,False",
+            "secondary": "RUNNER,15,False",
+            "hidden": null
+        },
+        "scars": [],
+        "accessory": null,
+        "experience": 99,
+        "dead_moons": 0,
+        "current_apprentice": [
+            "25"
+        ],
+        "former_apprentices": [],
+        "df": false,
+        "outside": false,
+        "faded_offspring": [],
+        "opacity": 100,
+        "prevent_fading": false,
+        "favourite": false,
+        "ear_size": [
+            "normal",
+            [
+                "large",
+                "normal"
+            ]
+        ],
+        "ear_type": [
+            "cat",
+            [
+                "no ears",
+                "cat"
+            ]
+        ],
+        "eye_type": [
+            "cat",
+            [
+                "abyss",
+                "cat"
+            ]
+        ],
+        "eye_count": [
+            2,
+            [
+                2,
+                2
+            ]
+        ],
+        "tail_type": [
+            "squirrel",
+            [
+                "squirrel",
+                "devil"
+            ]
+        ],
+        "tail_count": [
+            1,
+            [
+                1,
+                1
+            ]
+        ],
+        "teeth": [
+            "cat",
+            [
+                "pedipalps",
+                "cat"
+            ]
+        ],
+        "horns_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "horns": [
+            null,
+            [
+                "deer",
+                "deer"
+            ]
+        ],
+        "wings_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "wings_type": [
+            null,
+            [
+                "dragon",
+                "wyvern"
+            ]
+        ],
+        "wings": [
+            null,
+            [
+                "bat",
+                "bat"
+            ]
+        ],
+        "extras_presence": [
+            "one present",
+            [
+                false,
+                true
+            ]
+        ],
+        "extras": [
+            "gills",
+            [
+                "spines",
+                "gills"
+            ]
+        ]
+    },
+    {
+        "ID": "25",
+        "name_prefix": "Canary",
+        "name_suffix": "run",
+        "specsuffix_hidden": false,
+        "gender": "female",
+        "gender_align": "female",
+        "pronouns": [
+            {
+                "subject": "she",
+                "object": "her",
+                "poss": "her",
+                "inposs": "hers",
+                "self": "herself",
+                "conju": 2
+            }
+        ],
+        "birth_cooldown": 0,
+        "status": "apprentice",
+        "backstory": "clan_founder",
+        "moons": 11,
+        "trait": "playful",
+        "facets": "3,15,7,11",
+        "parent1": null,
+        "parent2": null,
+        "adoptive_parents": [],
+        "mentor": "24",
+        "former_mentor": [],
+        "patrol_with_mentor": 0,
+        "mate": [],
+        "previous_mates": [],
+        "dead": false,
+        "paralyzed": false,
+        "no_kits": false,
+        "no_retire": false,
+        "no_mates": false,
+        "exiled": false,
+        "driven_out": false,
+        "pelt_name": "Tabby",
+        "pelt_color": "BLACK",
+        "pelt_length": "long",
+        "sprite_kitten": 1,
+        "sprite_adolescent": 5,
+        "sprite_adult": 10,
+        "sprite_senior": 13,
+        "sprite_para_adult": 15,
+        "eye_colour": "BRONZE",
+        "eye_colour2": null,
+        "reverse": true,
+        "white_patches": null,
+        "vitiligo": null,
+        "points": null,
+        "white_patches_tint": "none",
+        "pattern": null,
+        "tortie_base": null,
+        "tortie_color": null,
+        "tortie_pattern": null,
+        "skin": "PEACH",
+        "tint": "pink",
+        "skill_dict": {
+            "primary": "TEACHER,2,True",
+            "secondary": "LORE,5,True",
+            "hidden": null
+        },
+        "scars": [],
+        "accessory": null,
+        "experience": 54,
+        "dead_moons": 0,
+        "current_apprentice": [],
+        "former_apprentices": [],
+        "df": false,
+        "outside": false,
+        "faded_offspring": [],
+        "opacity": 100,
+        "prevent_fading": false,
+        "favourite": false,
+        "ear_size": [
+            "small",
+            [
+                "small",
+                "small"
+            ]
+        ],
+        "ear_type": [
+            "cat",
+            [
+                "rabbit",
+                "cat"
+            ]
+        ],
+        "eye_type": [
+            "cat",
+            [
+                "cat",
+                "cat"
+            ]
+        ],
+        "eye_count": [
+            2,
+            [
+                2,
+                2
+            ]
+        ],
+        "tail_type": [
+            "cat",
+            [
+                "cat",
+                "cat"
+            ]
+        ],
+        "tail_count": [
+            1,
+            [
+                1,
+                1
+            ]
+        ],
+        "teeth": [
+            "cat",
+            [
+                "cat",
+                "cat"
+            ]
+        ],
+        "horns_presence": [
+            false,
+            [
+                true,
+                false
+            ]
+        ],
+        "horns": [
+            null,
+            [
+                "ram",
+                "goat"
+            ]
+        ],
+        "wings_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "wings_type": [
+            null,
+            [
+                "wyvern",
+                "wyvern"
+            ]
+        ],
+        "wings": [
+            null,
+            [
+                "bat",
+                "bird"
+            ]
+        ],
+        "extras_presence": [
+            "two present",
+            [
+                true,
+                true
+            ]
+        ],
+        "extras": [
+            [
+                "spines",
+                "scales"
+            ],
+            [
+                "spines",
+                "scales"
+            ]
+        ]
+    },
+    {
+        "ID": "26",
+        "name_prefix": "Big",
+        "name_suffix": "leaf",
+        "specsuffix_hidden": false,
+        "gender": "female",
+        "gender_align": "female",
+        "pronouns": [
+            {
+                "subject": "she",
+                "object": "her",
+                "poss": "her",
+                "inposs": "hers",
+                "self": "herself",
+                "conju": 2
+            }
+        ],
+        "birth_cooldown": 0,
+        "status": "warrior",
+        "backstory": "clan_founder",
+        "moons": 77,
+        "trait": "strict",
+        "facets": "11,6,9,14",
+        "parent1": null,
+        "parent2": null,
+        "adoptive_parents": [],
+        "mentor": null,
+        "former_mentor": [],
+        "patrol_with_mentor": 0,
+        "mate": [],
+        "previous_mates": [],
+        "dead": false,
+        "paralyzed": false,
+        "no_kits": false,
+        "no_retire": false,
+        "no_mates": false,
+        "exiled": false,
+        "driven_out": false,
+        "pelt_name": "Calico",
+        "pelt_color": "CREAM",
+        "pelt_length": "medium",
+        "sprite_kitten": 1,
+        "sprite_adolescent": 5,
+        "sprite_adult": 8,
+        "sprite_senior": 12,
+        "sprite_para_adult": 15,
+        "eye_colour": "BRONZE",
+        "eye_colour2": null,
+        "reverse": true,
+        "white_patches": "FINN",
+        "vitiligo": null,
+        "points": null,
+        "white_patches_tint": "darkcream",
+        "pattern": "CHIMERA",
+        "tortie_base": "smoke",
+        "tortie_color": "DARKBROWN",
+        "tortie_pattern": "agouti",
+        "skin": "MARBLED",
+        "tint": "yellow",
+        "skill_dict": {
+            "primary": "CLEVER,18,False",
+            "secondary": null,
+            "hidden": null
+        },
+        "scars": [],
+        "accessory": null,
+        "experience": 237,
+        "dead_moons": 0,
+        "current_apprentice": [],
+        "former_apprentices": [],
+        "df": false,
+        "outside": false,
+        "faded_offspring": [],
+        "opacity": 100,
+        "prevent_fading": false,
+        "favourite": false,
+        "ear_size": [
+            "normal",
+            [
+                "normal",
+                "large"
+            ]
+        ],
+        "ear_type": [
+            "extra tuft",
+            [
+                "dog",
+                "extra tuft"
+            ]
+        ],
+        "eye_type": [
+            "extra tuft",
+            [
+                "reptile",
+                "cat"
+            ]
+        ],
+        "eye_count": [
+            2,
+            [
+                3,
+                2
+            ]
+        ],
+        "tail_type": [
+            "cat",
+            [
+                "rat",
+                "cat"
+            ]
+        ],
+        "tail_count": [
+            1,
+            [
+                1,
+                1
+            ]
+        ],
+        "teeth": [
+            "cat",
+            [
+                "cat",
+                "pedipalps"
+            ]
+        ],
+        "horns_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "horns": [
+            null,
+            [
+                "antennae",
+                "deer"
+            ]
+        ],
+        "wings_presence": [
+            true,
+            [
+                true,
+                true
+            ]
+        ],
+        "wings_type": [
+            "wyvern",
+            [
+                "wyvern",
+                "wyvern"
+            ]
+        ],
+        "wings": [
+            "bat",
+            [
+                "bat",
+                "bat"
+            ]
+        ],
+        "extras_presence": [
+            "one present",
+            [
+                true,
+                false
+            ]
+        ],
+        "extras": [
+            "spines",
+            [
+                "spines",
+                "fins"
+            ]
+        ]
+    },
+    {
+        "ID": "27",
+        "name_prefix": "Furze",
+        "name_suffix": "bird",
+        "specsuffix_hidden": false,
+        "gender": "male",
+        "gender_align": "male",
+        "pronouns": [
+            {
+                "subject": "he",
+                "object": "him",
+                "poss": "his",
+                "inposs": "his",
+                "self": "himself",
+                "conju": 2
+            }
+        ],
+        "birth_cooldown": 0,
+        "status": "kitten",
+        "backstory": "clan_founder",
+        "moons": 2,
+        "trait": "skittish",
+        "facets": "13,2,1,5",
+        "parent1": null,
+        "parent2": null,
+        "adoptive_parents": [],
+        "mentor": null,
+        "former_mentor": [],
+        "patrol_with_mentor": 0,
+        "mate": [],
+        "previous_mates": [],
+        "dead": false,
+        "paralyzed": false,
+        "no_kits": false,
+        "no_retire": false,
+        "no_mates": false,
+        "exiled": false,
+        "driven_out": false,
+        "pelt_name": "Masked",
+        "pelt_color": "GINGER",
+        "pelt_length": "medium",
+        "sprite_kitten": 1,
+        "sprite_adolescent": 4,
+        "sprite_adult": 8,
+        "sprite_senior": 13,
+        "sprite_para_adult": 15,
+        "eye_colour": "EMERALD",
+        "eye_colour2": null,
+        "reverse": false,
+        "white_patches": null,
+        "vitiligo": null,
+        "points": null,
+        "white_patches_tint": "none",
+        "pattern": null,
+        "tortie_base": null,
+        "tortie_color": null,
+        "tortie_pattern": null,
+        "skin": "GREY",
+        "tint": "yellow",
+        "skill_dict": {
+            "primary": "INSIGHTFUL,0,True",
+            "secondary": null,
+            "hidden": null
+        },
+        "scars": [],
+        "accessory": null,
+        "experience": 0,
+        "dead_moons": 0,
+        "current_apprentice": [],
+        "former_apprentices": [],
+        "df": false,
+        "outside": false,
+        "faded_offspring": [],
+        "opacity": 100,
+        "prevent_fading": false,
+        "favourite": false,
+        "ear_size": [
+            "normal",
+            [
+                "normal",
+                "normal"
+            ]
+        ],
+        "ear_type": [
+            "extra tuft",
+            [
+                "extra tuft",
+                "extra tuft"
+            ]
+        ],
+        "eye_type": [
+            "extra tuft",
+            [
+                "abyss",
+                "abyss"
+            ]
+        ],
+        "eye_count": [
+            2,
+            [
+                2,
+                2
+            ]
+        ],
+        "tail_type": [
+            "squirrel",
+            [
+                "squirrel",
+                "devil"
+            ]
+        ],
+        "tail_count": [
+            1,
+            [
+                1,
+                1
+            ]
+        ],
+        "teeth": [
+            "cat",
+            [
+                "cat",
+                "fangs"
+            ]
+        ],
+        "horns_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "horns": [
+            null,
+            [
+                "goat",
+                "goat"
+            ]
+        ],
+        "wings_presence": [
+            false,
+            [
+                true,
+                false
+            ]
+        ],
+        "wings_type": [
+            null,
+            [
+                "wyvern",
+                "wyvern"
+            ]
+        ],
+        "wings": [
+            null,
+            [
+                "pterosaur",
+                "bird"
+            ]
+        ],
+        "extras_presence": [
+            "two present",
+            [
+                true,
+                true
+            ]
+        ],
+        "extras": [
+            [
+                "fins",
+                "fins"
+            ],
+            [
+                "fins",
+                "fins"
+            ]
+        ]
+    },
+    {
+        "ID": "28",
+        "name_prefix": "Pepper",
+        "name_suffix": "tooth",
+        "specsuffix_hidden": false,
+        "gender": "female",
+        "gender_align": "female",
+        "pronouns": [
+            {
+                "subject": "she",
+                "object": "her",
+                "poss": "her",
+                "inposs": "hers",
+                "self": "herself",
+                "conju": 2
+            }
+        ],
+        "birth_cooldown": 0,
+        "status": "apprentice",
+        "backstory": "clan_founder",
+        "moons": 7,
+        "trait": "bloodthirsty",
+        "facets": "4,3,12,6",
+        "parent1": null,
+        "parent2": null,
+        "adoptive_parents": [],
+        "mentor": "22",
+        "former_mentor": [],
+        "patrol_with_mentor": 0,
+        "mate": [],
+        "previous_mates": [],
+        "dead": false,
+        "paralyzed": false,
+        "no_kits": false,
+        "no_retire": false,
+        "no_mates": false,
+        "exiled": false,
+        "driven_out": false,
+        "pelt_name": "SingleColour",
+        "pelt_color": "BLACK",
+        "pelt_length": "long",
+        "sprite_kitten": 1,
+        "sprite_adolescent": 4,
+        "sprite_adult": 10,
+        "sprite_senior": 14,
+        "sprite_para_adult": 15,
+        "eye_colour": "GREEN",
+        "eye_colour2": null,
+        "reverse": false,
+        "white_patches": null,
+        "vitiligo": null,
+        "points": null,
+        "white_patches_tint": "none",
+        "pattern": null,
+        "tortie_base": null,
+        "tortie_color": null,
+        "tortie_pattern": null,
+        "skin": "BROWN",
+        "tint": "cooldilute",
+        "skill_dict": {
+            "primary": "SWIMMER,3,True",
+            "secondary": null,
+            "hidden": null
+        },
+        "scars": [],
+        "accessory": null,
+        "experience": 11,
+        "dead_moons": 0,
+        "current_apprentice": [],
+        "former_apprentices": [],
+        "df": false,
+        "outside": false,
+        "faded_offspring": [],
+        "opacity": 100,
+        "prevent_fading": false,
+        "favourite": false,
+        "ear_size": [
+            "normal",
+            [
+                "normal",
+                "small"
+            ]
+        ],
+        "ear_type": [
+            "cat",
+            [
+                "cat",
+                "rabbit"
+            ]
+        ],
+        "eye_type": [
+            "cat",
+            [
+                "abyss",
+                "goat"
+            ]
+        ],
+        "eye_count": [
+            2,
+            [
+                2,
+                2
+            ]
+        ],
+        "tail_type": [
+            "squirrel",
+            [
+                "squirrel",
+                "dolphin"
+            ]
+        ],
+        "tail_count": [
+            1,
+            [
+                1,
+                2
+            ]
+        ],
+        "teeth": [
+            "cat",
+            [
+                "cat",
+                "mandibles"
+            ]
+        ],
+        "horns_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "horns": [
+            null,
+            [
+                "ram",
+                "deer"
+            ]
+        ],
+        "wings_presence": [
+            false,
+            [
+                false,
+                false
+            ]
+        ],
+        "wings_type": [
+            null,
+            [
+                "wyvern",
+                "dragon"
+            ]
+        ],
+        "wings": [
+            null,
+            [
+                "bat",
+                "bird"
+            ]
+        ],
+        "extras_presence": [
+            "none present",
+            [
+                false,
+                false
+            ]
+        ],
+        "extras": [
+            null,
+            [
+                "lure",
+                "lure"
+            ]
+        ]
+    },
+    {
+        "ID": "29",
+        "name_prefix": "Berry",
+        "name_suffix": "moth",
+        "specsuffix_hidden": false,
+        "gender": "male",
+        "gender_align": "male",
+        "pronouns": [
+            {
+                "subject": "he",
+                "object": "him",
+                "poss": "his",
+                "inposs": "his",
+                "self": "himself",
+                "conju": 2
+            }
+        ],
+        "birth_cooldown": 0,
+        "status": "elder",
+        "backstory": "clan_founder",
+        "moons": 148,
+        "trait": "nervous",
+        "facets": "15,8,2,3",
+        "parent1": null,
+        "parent2": null,
+        "adoptive_parents": [],
+        "mentor": null,
+        "former_mentor": [],
+        "patrol_with_mentor": 0,
+        "mate": [],
+        "previous_mates": [],
+        "dead": true,
+        "paralyzed": false,
+        "no_kits": false,
+        "no_retire": false,
+        "no_mates": false,
+        "exiled": false,
+        "driven_out": false,
+        "pelt_name": "Classic",
+        "pelt_color": "LILAC",
+        "pelt_length": "short",
+        "sprite_kitten": 2,
+        "sprite_adolescent": 4,
+        "sprite_adult": 8,
+        "sprite_senior": 14,
+        "sprite_para_adult": 15,
+        "eye_colour": "COPPER",
+        "eye_colour2": null,
+        "reverse": true,
+        "white_patches": null,
+        "vitiligo": null,
+        "points": null,
+        "white_patches_tint": "none",
+        "pattern": null,
+        "tortie_base": null,
+        "tortie_color": null,
+        "tortie_pattern": null,
+        "skin": "PEACH",
+        "tint": "warmdilute",
+        "skill_dict": {
+            "primary": "KIT,28,False",
+            "secondary": "CLIMBER,17,False",
+            "hidden": null
+        },
+        "scars": [
+            "NECKBITE"
+        ],
+        "accessory": null,
+        "experience": 186,
+        "dead_moons": 153,
+        "current_apprentice": [],
+        "former_apprentices": [],
+        "df": false,
+        "outside": false,
+        "faded_offspring": [],
+        "opacity": 100,
+        "prevent_fading": false,
+        "favourite": false,
+        "ear_size": [
+            "normal",
+            [
+                "normal",
+                "normal"
+            ]
+        ],
+        "ear_type": [
+            "rabbit",
+            [
+                "rabbit",
+                "no ears"
+            ]
+        ],
+        "eye_type": [
+            "rabbit",
+            [
+                "cat",
+                "cat"
+            ]
+        ],
+        "eye_count": [
+            2,
+            [
+                2,
+                2
+            ]
+        ],
+        "tail_type": [
+            "cat",
+            [
+                "cat",
+                "rat"
+            ]
+        ],
+        "tail_count": [
+            1,
+            [
+                1,
+                1
+            ]
+        ],
+        "teeth": [
+            "cat",
+            [
+                "cat",
+                "cat"
+            ]
+        ],
+        "horns_presence": [
+            false,
+            [
+                false,
+                true
+            ]
+        ],
+        "horns": [
+            null,
+            [
+                "antennae",
+                "deer"
+            ]
+        ],
+        "wings_presence": [
+            false,
+            [
+                false,
+                true
+            ]
+        ],
+        "wings_type": [
+            null,
+            [
+                "wyvern",
+                "dragon"
+            ]
+        ],
+        "wings": [
+            null,
+            [
+                "bird",
+                "insect"
+            ]
+        ],
+        "extras_presence": [
+            "none present",
+            [
+                false,
+                false
+            ]
+        ],
+        "extras": [
+            null,
+            [
+                "fins",
+                "lure"
+            ]
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+{
+    "moon&season_open": false,
+    "language": "english",
+    "text size": "0",
+    "fullscreen": false,
+    "music_volume": 100,
+    "sound_volume": 100,
+    "audio_mute": false,
+    "dark mode": false,
+    "fullscreen scaling": false,
+    "no sprite antialiasing": false,
+    "custom cursor": false,
+    "keybinds": false,
+    "shaders": false,
+    "gore": false,
+    "discord": false,
+    "check_for_updates": true,
+    "show_changelog": true,
+    "special_dates": true,
+    "random relation": true,
+    "they them default": false
+}
